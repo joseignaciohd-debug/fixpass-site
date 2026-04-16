@@ -20,23 +20,23 @@ export function Footer() {
           <ul className="mt-4 space-y-2 text-sm text-slate">
             <li><Link href="/">Home</Link></li>
             <li><Link href="/pricing">Pricing</Link></li>
-            <li><Link href="/contact">Contact</Link></li>
+            <li><Link href="/support">Support</Link></li>
           </ul>
         </div>
         <div>
           <h3 className="text-sm font-semibold text-ink">Contact</h3>
           <ul className="mt-4 space-y-2 text-sm text-slate">
-            <li>hello@fixpass.com</li>
+            <li>support@fixpass.com</li>
             <li>(713) 555-0188</li>
-            <li>Launching in Houston</li>
+            <li>Launching in Katy, Texas</li>
           </ul>
         </div>
         <div>
           <h3 className="text-sm font-semibold text-ink">Legal</h3>
           <ul className="mt-4 space-y-2 text-sm text-slate">
-            <li><Link href="#">Terms (Placeholder)</Link></li>
-            <li><Link href="#">Privacy (Placeholder)</Link></li>
-            <li><Link href="#">Service Areas (Placeholder)</Link></li>
+            <li><Link href="/terms">Terms</Link></li>
+            <li><Link href="/privacy">Privacy</Link></li>
+            <li><Link href="/support">Support</Link></li>
           </ul>
         </div>
       </div>

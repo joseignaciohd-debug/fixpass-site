@@ -1,0 +1,14 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="48" fill="#F4F7FC"/>
+  <rect x="72" y="72" width="1056" height="756" rx="40" fill="#FFFDFB"/>
+  <rect x="112" y="122" width="976" height="656" rx="28" fill="#F6F2EA"/>
+  <path d="M693 248C693 248 640 232 581 252C518 274 508 348 559 380C617 417 668 381 719 405C772 430 781 502 730 541C680 579 614 577 566 553" stroke="#D0B18A" stroke-width="26" stroke-linecap="round"/>
+  <rect x="762" y="325" width="191" height="110" rx="24" transform="rotate(-14 762 325)" fill="#0C2348"/>
+  <rect x="786" y="276" width="48" height="120" rx="18" transform="rotate(-14 786 276)" fill="#5D8DE7"/>
+  <rect x="735" y="568" width="232" height="26" rx="13" fill="#0C2348"/>
+  <rect x="735" y="611" width="178" height="18" rx="9" fill="#8AA6D8"/>
+  <circle cx="282" cy="280" r="78" fill="#E3EAF6"/>
+  <path d="M248 301C248 301 279 260 325 266C372 273 385 335 340 361C298 385 263 364 248 332" fill="#D7E4F8"/>
+  <text x="132" y="170" fill="#0C2348" font-family="Arial, sans-serif" font-size="36" font-weight="700">Drywall patch and touch-up</text>
+  <text x="132" y="218" fill="#66758F" font-family="Arial, sans-serif" font-size="24">The kind of clean-up job homeowners need done quickly and without a contractor-sized process.</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="48" fill="#F4F7FC"/>
+  <rect x="65" y="65" width="1070" height="770" rx="40" fill="#EAF0FA"/>
+  <rect x="758" y="152" width="212" height="566" rx="24" fill="#1A3763"/>
+  <rect x="784" y="180" width="160" height="510" rx="18" fill="#24497F"/>
+  <circle cx="906" cy="438" r="12" fill="#F2F5FA"/>
+  <rect x="238" y="128" width="446" height="644" rx="28" fill="#FFFDFB"/>
+  <rect x="274" y="172" width="374" height="556" rx="18" fill="#F7F4EE"/>
+  <circle cx="602" cy="451" r="14" fill="#C79B58"/>
+  <path d="M184 589C184 589 255 569 327 612C399 655 451 643 490 598" stroke="#1A3763" stroke-width="18" stroke-linecap="round"/>
+  <path d="M464 512L565 410" stroke="#0C2348" stroke-width="22" stroke-linecap="round"/>
+  <path d="M431 478L530 378" stroke="#5D8DE7" stroke-width="22" stroke-linecap="round"/>
+  <rect x="349" y="566" width="126" height="22" rx="11" fill="#5D8DE7"/>
+  <rect x="349" y="606" width="186" height="18" rx="9" fill="#B3C6E8"/>
+  <text x="120" y="150" fill="#0C2348" font-family="Arial, sans-serif" font-size="36" font-weight="700">Door adjustment visit</text>
+  <text x="120" y="198" fill="#66758F" font-family="Arial, sans-serif" font-size="24">Quiet, tidy, in-home help for the small fixes that keep dragging on.</text>
+</svg>

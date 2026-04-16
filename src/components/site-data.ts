@@ -25,6 +25,7 @@ export const plans: Plan[] = [
     price: "$49.99",
     subtitle: "Best for active households",
     fixes: "5 fixes per month",
+    featured: true,
     perks: [
       "Five fixes per month",
       "Faster scheduling windows",
@@ -37,7 +38,6 @@ export const plans: Plan[] = [
     price: "$99.99",
     subtitle: "Maximum peace of mind",
     fixes: "Unlimited fixes per month",
-    featured: true,
     perks: [
       "Unlimited small fixes",
       "Materials coverage up to $40/month",

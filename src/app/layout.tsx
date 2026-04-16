@@ -1,25 +1,26 @@
 import type { Metadata } from "next";
-import { Manrope, Sora } from "next/font/google";
 import "./globals.css";
-import { Navbar } from "@/components/navbar";
-import { Footer } from "@/components/footer";
-
-const manrope = Manrope({ subsets: ["latin"], variable: "--font-body" });
-const sora = Sora({ subsets: ["latin"], variable: "--font-display" });
+import { AppChrome } from "@/components/layout/app-chrome";
 
 export const metadata: Metadata = {
-  title: "Fixpass | Subscription Handyman Service",
+  title: "Fixpass — Home maintenance, handled.",
   description:
-    "Fixpass gives you on-demand handyman access through a simple monthly subscription. Predictable cost, faster fixes, zero stress.",
+    "Fixpass is the membership for home maintenance in Katy, Texas. Predictable Stripe billing, trusted technicians, operator-led scheduling, and a calmer way to keep your house running.",
+  openGraph: {
+    title: "Fixpass — Home maintenance, handled.",
+    description:
+      "Premium home repair membership. Vetted technicians, clear scope, billed end-to-end on Stripe.",
+    type: "website",
+  },
 };
 
-export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
+export default function RootLayout({
+  children,
+}: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en">
-      <body className={`${manrope.variable} ${sora.variable} bg-white text-ink antialiased`}>
-        <Navbar />
-        <main>{children}</main>
-        <Footer />
+      <body className="min-h-screen bg-parchment text-ink antialiased">
+        <AppChrome>{children}</AppChrome>
       </body>
     </html>
   );
